@@ -28,6 +28,7 @@
 
 # INSTALLATION COMMANDS
 
+'''
 * 'apt update'
 * 'apt upgrade -y'
 * 'apt install git -y'
