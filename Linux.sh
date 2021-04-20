@@ -4,6 +4,13 @@
 # Author: Technocyber
 # Made with ❤️
 
+# colours
+
+cyan='\033[1;36m'
+green='\033[1;32m'
+red='\033[1;31m'
+yellow='\033[1;33m'
+
 echo
 echo -e "\e[1;31mThis Tool Will Install Kali Linux in your Termux"
 echo
