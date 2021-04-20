@@ -17,7 +17,7 @@
 # ABOUT TOOL
 
 
-> **[`T2-fisher is a advanced phishing tool with 20+ Templates. The tool is made for Phishing. It works on both Rooted and Non-Rooted device.
+> **[`Kali-nux is a tool which is made in bash language. It helps to install linux in termux without any error and problem.
 `](#)**
 
 # AVAILABLE FOR
@@ -36,7 +36,7 @@
 
 > **[`git clone https://github.com/Technocyber/Kali-nux`](#)**
 
-> **[`cd kali-nux`](#)**
+> **[`cd Kali-nux`](#)**
 
 > **[`bash linux.sh`](#)**
 
