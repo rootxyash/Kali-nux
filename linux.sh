@@ -9,13 +9,13 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
 gem install lolcat
-echo " "
-echo "██   ██  █████  ██      ██       ███    ██ ██    ██ ██   ██ "|lolcat
-echo "██  ██  ██   ██ ██      ██       ████   ██ ██    ██  ██ ██  "|lolcat
-echo "█████   ███████ ██      ██ █████ ██ ██  ██ ██    ██   ███  "|lolcat 
-echo "██  ██  ██   ██ ██      ██       ██  ██ ██ ██    ██  ██ ██  "|lolcat
-echo "██   ██ ██   ██ ███████ ██       ██   ████  ██████  ██   ██ "|lolcat                                                           
-echo
+echo " "                                                                                 
+echo " _|    _|    _|_|    _|        _|_|_|            _|      _|  _|    _|  _|      _|"|lolcat  
+echo " _|  _|    _|    _|  _|          _|              _|_|    _|  _|    _|    _|  _|"|lolcat    
+echo " _|_|      _|_|_|_|  _|          _|  _|_|_|_|_|  _|  _|  _|  _|    _|      _|"|lolcat      
+echo " _|  _|    _|    _|  _|          _|              _|    _|_|  _|    _|    _|  _|"|lolcat   
+echo " _|    _|  _|    _|  _|_|_|_|  _|_|_|            _|      _|    _|_|    _|      _|"|lolcat  
+echo " "                                                                                                                              echo
 echo -e "\e[1;31mThis Tool Will Install Kali Linux in your Termux"
 echo
 sleep 2.0
