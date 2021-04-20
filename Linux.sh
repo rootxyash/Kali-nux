@@ -23,7 +23,7 @@ echo " $cyan
 ░ ░░ ░  ░   ▒     ░ ░    ▒ ░   ░   ░ ░  ░░░ ░ ░  ░    ░  
 ░  ░        ░  ░    ░  ░ ░           ░    ░      ░    ░  "
 echo " " 
-echo " $green <========== Coded by Technocyber ==========>
+echo " $green <+~+~+~+~+~ Coded by Technocyber +~+~+~+~+~>
 echo " "                                                       
 echo -e "\e[1;31mThis Tool Will Install Kali Linux in your Termux"
 echo
