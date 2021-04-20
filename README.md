@@ -40,6 +40,8 @@
 
 > **[`bash linux.sh`](#)**
 
+<!--- Commented section -->
+<!--
 # SCREENSHOTS
 
 > **[`INSTALLATION`](#)**
@@ -56,6 +58,9 @@
 <p align="center">
 <a href="https://Technocyber.tk"><img src="img/Screenst_2021-04-05-00-46-56-67_84d3000e3f4017145260f7618db1d683.jpg"></a>
 </p>
+
+-->
+<!-- Comment End -->
 
 # WARNING 
 
