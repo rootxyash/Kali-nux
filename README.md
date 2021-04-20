@@ -34,7 +34,7 @@
 
 > **[`apt install git -y`](#)**
 
-> **[`git clone https://github.com/Technocyber/T2-fisher`](#)**
+> **[`git clone https://github.com/Technocyber/Kali-nux`](#)**
 
 > **[`cd kali-nux`](#)**
 
