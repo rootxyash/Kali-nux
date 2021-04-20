@@ -16,8 +16,9 @@ echo " | |/ /   / \  | |   |_ _|    | \ | | | | \ \/ / "|lolcat
 echo " | ' /   / _ \ | |    | |_____|  \| | | | |\  / "|lolcat 
 echo " | . \  / ___ \| |___ | |_____| |\  | |_| |/  \ "|lolcat 
 echo " |_|\_\/_/   \_\_____|___|    |_| \_|\___//_/\_\ "|lolcat
-echo " "                                                                                                                              
-echo -e "\e[1;31mThis Tool Will Install Kali Linux in your Termux"
+echo " " 
+echo                                                                                                                              
+echo -e "\e[1;36mThis Tool Will Install Kali Linux in your Termux"
 echo
 sleep 2.0
 echo -e "\e[0;32mImportant Instructions Before Installing Kali Linux"
