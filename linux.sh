@@ -14,7 +14,7 @@ echo "██   ██  █████  ██      ██       █�
 echo "██  ██  ██   ██ ██      ██       ████   ██ ██    ██  ██ ██  "|lolcat
 echo "█████   ███████ ██      ██ █████ ██ ██  ██ ██    ██   ███  "|lolcat 
 echo "██  ██  ██   ██ ██      ██       ██  ██ ██ ██    ██  ██ ██  "|lolcat
-echo "██   ██ ██   ██ ███████ ██       ██   ████  ██████  ██   ██ "|lolcat                                                           
+echo "██   ██ ██   ██ ███████ ██       ██   ████  ██████  ██   ██"|lolcat                                                           
 echo " "
 echo -e "\e[1;31mThis Tool Will Install Kali Linux in your Termux"
 echo
