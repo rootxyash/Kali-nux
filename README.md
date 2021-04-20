@@ -28,13 +28,14 @@
 
 # INSTALLATION COMMANDS
 
-'''
-* 'apt update'
-* 'apt upgrade -y'
-* 'apt install git -y'
-* 'git clone https://github.com/Technocyber/kali-nux
-* 'cd kali-nux'
-* 'bash linux.sh'
+```
+apt update
+apt upgrade -y
+apt install git -y
+git clone https://github.com/Technocyber/T2-fisher
+cd T2-fisher
+bash install.sh
+bash T2-fisher
 ```
 
 # SCREENSHOTS
@@ -63,4 +64,3 @@
 
 > **[`The tool is made for only educational purpose. We are not responsible for any misuse and damaged caused by this program.
 `](#)**
-
