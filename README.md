@@ -57,11 +57,6 @@
 <a href="https://Technocyber.tk"><img src="img/Screenst_2021-04-05-00-46-56-67_84d3000e3f4017145260f7618db1d683.jpg"></a>
 </p>
 
-# CONTRIBUTORS 
-
-> **[`Special Thanks to Hackerspunk for helping me in this project.
-`](#)**
-
 # WARNING 
 
 > **[`The tool is made for only educational purpose. We are not responsible for any misuse and damaged caused by this program.
