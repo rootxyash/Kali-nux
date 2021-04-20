@@ -26,7 +26,7 @@ echo " "
 echo " $green <+~+~+~+~+~ Coded by Technocyber +~+~+~+~+~>
 echo " "                                                       
 echo -e "\e[1;31mThis Tool Will Install Kali Linux in your Termux"
-echo
+echo " "
 sleep 2.0
 echo -e "\e[0;32mImportant Instructions Before Installing Kali Linux"
 echo
