@@ -4,9 +4,6 @@
 # Author: Technocyber
 # Made with ❤️
 
-# colours
-
-#!/data/data/com.termux/files/usr/bin/bash
 
 gem install lolcat
 clear
