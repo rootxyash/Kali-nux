@@ -6,27 +6,11 @@
 
 # colours
 
-cyan='\033[1;36m'
-green='\033[1;32m'
-red='\033[1;31m'
-yellow='\033[1;33m'
+#!/data/data/com.termux/files/usr/bin/bash
 
-echo " "
-echo " $cyan
- ██ ▄█▀▄▄▄       ██▓     ██▓ ███▄    █  █    ██ ▒██   ██▒
- ██▄█▒▒████▄    ▓██▒    ▓██▒ ██ ▀█   █  ██  ▓██▒▒▒ █ █ ▒░
-▓███▄░▒██  ▀█▄  ▒██░    ▒██▒▓██  ▀█ ██▒▓██  ▒██░░░  █   ░
-▓██ █▄░██▄▄▄▄██ ▒██░    ░██░▓██▒  ▐▌██▒▓▓█  ░██░ ░ █ █ ▒ 
-▒██▒ █▄▓█   ▓██▒░██████▒░██░▒██░   ▓██░▒▒█████▓ ▒██▒ ▒██▒
-▒ ▒▒ ▓▒▒▒   ▓▒█░░ ▒░▓  ░░▓  ░ ▒░   ▒ ▒ ░▒▓▒ ▒ ▒ ▒▒ ░ ░▓ ░
-░ ░▒ ▒░ ▒   ▒▒ ░░ ░ ▒  ░ ▒ ░░ ░░   ░ ▒░░░▒░ ░ ░ ░░   ░▒ ░
-░ ░░ ░  ░   ▒     ░ ░    ▒ ░   ░   ░ ░  ░░░ ░ ░  ░    ░  
-░  ░        ░  ░    ░  ░ ░           ░    ░      ░    ░  "
-echo " " 
-echo " $green <+~+~+~+~+~ Coded by Technocyber +~+~+~+~+~>
-echo " "                                                       
+echo
 echo -e "\e[1;31mThis Tool Will Install Kali Linux in your Termux"
-echo " "
+echo
 sleep 2.0
 echo -e "\e[0;32mImportant Instructions Before Installing Kali Linux"
 echo
@@ -43,6 +27,6 @@ wget -O install-nethunter-termux https://offs.ec/2MceZWr
 chmod +x install-nethunter-termux
 ./install-nethunter-termux
 echo -e "Thanks For Using This Tool"
-echo -e "\e[1;90mLove From TECHNOCYBER"
+echo -e "\e[1;90mLove From HACKERSPUNK"
 echo -e "Loading....."
 echo " "
